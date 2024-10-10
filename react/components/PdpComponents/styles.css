@@ -1,0 +1,22 @@
+.container-pdp-custom {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: row;
+}
+
+.content_img {
+  width: 390px;
+}
+
+.contant_price {
+  font-size: 2.25rem;
+  font-weight: 700;
+}
+
+.contant_price--highPrice {
+  text-decoration: line-through;
+  display: block;
+  color: #979899;
+  font-size: 1rem;
+}
